@@ -10,4 +10,4 @@ I investigate how micro-level interactions generate macro-level stratification p
 
 I combine social network analysis, agent-based modeling, and computational methods to develop models analyzing resource diffusion in heterogeneous networks and emergent segregation dynamics in labor markets.
 
-[![Publications](https://img.shields.io/badge/Publications-blue?style=for-the-badge)](https://rcantillan.github.io/publications) [![Projects](https://img.shields.io/badge/Projects-green?style=for-the-badge)](https://rcantillan.github.io/projects) [![Contact](https://img.shields.io/badge/Contact-red?style=for-the-badge)](mailto:your-email@example.com)
+[![Publications](https://img.shields.io/badge/Publications-blue?style=for-the-badge)](https://rcantillan.github.io/publication) [![Projects](https://img.shields.io/badge/Projects-green?style=for-the-badge)](https://rcantillan.github.io/projects) [![Contact](https://img.shields.io/badge/Contact-red?style=for-the-badge)](mailto:ricantillan@uc.cl)
