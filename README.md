@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=rcantillan&style=flat-square&theme=tokyonight)
+
 ## Hi there 👋
 
 I am a doctoral candidate in Sociology at the Pontificia Universidad Católica de Chile and a research assistant at the "Millennium Nucleus for the Study of Labor Market Mismatch" (LM²C²), focusing on social stratification through network science.
