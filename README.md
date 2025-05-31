@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=rcantillan&style=flat-square&theme=tokyonight)
 
-## Hi there! 👋 I'm Ricardo Cantillán
+## Hi there! 👋 I'm Roberto Cantillan
 
 **Doctoral Candidate in Sociology** at Pontificia Universidad Católica de Chile  
 **Research Assistant** at the Millennium Nucleus for the Study of Labor Market Mismatch (LM²C²)
