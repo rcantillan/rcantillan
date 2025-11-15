@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=rcantillan&style=flat-square&theme=tokyonight)
 
 ## Hi there! 👋 I'm Roberto Cantillan
 
