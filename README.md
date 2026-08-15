@@ -1,33 +1,50 @@
+# Hi, I'm Roberto Cantillan 👋
 
-## Hi there! 👋 I'm Roberto Cantillan
+**PhD Candidate in Sociology** at Pontificia Universidad Católica de Chile  
+**Research Assistant** · [Mobility Frontiers](https://github.com/Mobility-Frontiers) · FONDECYT 1261889
 
-**Doctoral Candidate in Sociology** at Pontificia Universidad Católica de Chile  
-**Research Assistant** at the Millennium Nucleus for the Study of Labor Market Mismatch (LM²C²)
-
-🌐 **[Visit my website](https://rcantillan.github.io)** for my complete academic profile
+↗ [Academic Website](https://rcantillan.github.io)
 
 ---
 
-### 🔬 What I Do
+## ◈ Research
 
-I study **social stratification through the lens of network science** — exploring how individual interactions create large-scale patterns of inequality in society. My research bridges micro-level social dynamics with macro-level structural outcomes.
+I study **social stratification and mobility through the lens of network science**, focusing on how micro-level interactions and relational structures generate macro-level patterns of inequality.
 
-### 🎯 Research Areas
+### ◇ Network Stratification
+How do social interactions generate and reproduce patterns of inequality? I study the network mechanisms linking individual relationships to segregation, hierarchy, and unequal access to resources.
 
-My work focuses on three interconnected questions:
+### ◇ Resource Diffusion
+How do opportunities and resources move through social networks? I examine when the diffusion of information, opportunities, and social capital amplifies or reduces existing inequalities.
 
-**🕸️ Network Stratification**  
-How do micro-level interactions generate macro-level stratification patterns? I examine the network mechanisms that transform individual relationships into systemic social hierarchies.
+### ◇ Social & Labor Market Mobility
+How do relational structures shape mobility trajectories? I study intragenerational mobility, occupational transitions, and the network mechanisms underlying labor market inequality.
 
-**💫 Resource Diffusion**  
-How do resources flow through social networks, and when do these flows amplify or reduce inequalities? I study the pathways through which opportunities, information, and social capital spread.
+---
 
-**🚀 Labor Market Dynamics**  
-How do network structures shape career mobility and workplace segregation? I investigate intragenerational mobility patterns and their network determinants.
+## ◈ Current Research
 
-### 🛠️ Methods & Tools
+I am currently a Research Assistant in **Mobility Frontiers — FONDECYT 1261889**:
 
-I combine **social network analysis**, **agent-based modeling**, and **computational methods** to build models that simulate and analyze:
-- Resource diffusion in heterogeneous social networks
-- Emergent segregation dynamics in labor markets  
-- Structural mechanisms of social inequality
+> **New Approaches to the Study of Social Mobility: Expanding Theory, Data, and Methods**
+
+The project develops new theoretical, empirical, and methodological approaches to the study of social mobility.
+
+→ [Explore Mobility Frontiers](https://github.com/Mobility-Frontiers)
+
+---
+
+## ◈ Methods
+
+`Network Analysis` · `Agent-Based Modeling` · `Sequence Analysis` · `Computational Methods`
+
+---
+
+## ◈ Research Interests
+
+`Social Mobility` · `Social Stratification` · `Network Science` · `Computational Sociology` · `Resource Diffusion` · `Labor Markets`
+
+---
+
+○ [Website](https://rcantillan.github.io) · 
+○ [Mobility Frontiers](https://github.com/Mobility-Frontiers)
