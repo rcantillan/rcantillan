@@ -38,6 +38,10 @@ The project develops new theoretical, empirical, and methodological approaches t
 
 `Network Analysis` · `Agent-Based Modeling` · `Sequence Analysis` · `Computational Methods`
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ---
 
 ## ◈ Research Interests
